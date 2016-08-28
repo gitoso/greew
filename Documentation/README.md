@@ -1,5 +1,6 @@
 <center> ![greew](greew-logo.png) </center>
-THIS BRANCH IS ONLY FOR THE DOCUMENTS!
+
+Documentation Folder
 
 - Plano de Negócio 
 
